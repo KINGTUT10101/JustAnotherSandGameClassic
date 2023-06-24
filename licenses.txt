@@ -1,0 +1,5 @@
+Classic Module:
+https://github.com/rxi/classic/blob/master/LICENSE
+
+LOVE2D:
+https://love2d.org/wiki/License
